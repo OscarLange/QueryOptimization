@@ -24,3 +24,6 @@ or if you choose the semi-join Cost Function, then the program asks you to evalu
   - `inputfiles`: the folder contains .txt files as input for the algorithms with examples
 - `lib`: the folder to maintain dependencies
 
+## BigDecimal
+
+The java.math class BigDecimal is used in this programm, because the software needs to handle large decimal number. But some numbers can't be represented accuratly, e.g. 1/3, so the software rounds to 100 decimal values.
