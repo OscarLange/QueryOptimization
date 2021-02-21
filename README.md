@@ -6,9 +6,6 @@ There are two small codesections inside the input folder,
 where I consulted online ressources for help(Reading a file in java, Reading Console in Java),  
 the links to the original source code are inside the files. 
 
-If you plan to use this at TUM, I applaud you to read the student code of conduct:
-  - https://www.in.tum.de/en/current-students/administrative-matters/student-code-of-conduct/
-
 ## Configuration
 
 First you need to change the values in `src/inputfiles` to fit the querygraph/precedencegraph you want.  
