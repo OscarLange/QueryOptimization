@@ -1,9 +1,9 @@
 ## Description
 
 This is my Query Optimization algorithm calculator. It is based upon the lecture QueryOptimization at TUM(see https://db.in.tum.de/teaching/ws2021/queryopt/).  
-All code written is entirely made by me, with the help of lecture slides. 
+All code written is entirely made by me, with the help of lecture slides.   
 There are two small codesections inside the input folder, where I consulted online ressources for help(Reading a file in java, Reading Console in Java),  
-the links to the original source code are inside the files.
+the links to the original source code are inside the files.  
 
 ## Configuration
 
